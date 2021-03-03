@@ -14,3 +14,4 @@
 
 
 ### Tokenization 
+  #### Separate pieces of texts into smaller units called tokens. 
